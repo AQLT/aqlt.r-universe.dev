@@ -1,0 +1,26 @@
+[
+    {
+        "package": "RJDemetra",
+        "url": "https://github.com/jdemetra/rjdemetra"
+    },
+    {
+        "package": "ggdemetra",
+        "url": "https://github.com/AQLT/ggdemetra"
+    },
+    {
+        "package": "rjwsacruncher",
+        "url": "https://github.com/AQLT/rjwsacruncher"
+    },
+    {
+        "package": "rjdmarkdown",
+        "url": "https://github.com/AQLT/rjdmarkdown"
+    },
+    {
+        "package": "rjdqa",
+        "url": "https://github.com/AQLT/rjdqa"
+    },
+    {
+        "package": "Rogctable",
+        "url": "https://github.com/AQLT/Rogctable"
+    }
+]
