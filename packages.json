@@ -22,5 +22,9 @@
     {
         "package": "Rogctable",
         "url": "https://github.com/AQLT/Rogctable"
+    },
+    {
+        "package": "rjd3toolkit",
+        "url": "https://github.com/palatej/rjd3toolkit"
     }
 ]
