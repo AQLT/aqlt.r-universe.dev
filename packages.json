@@ -26,5 +26,9 @@
     {
         "package": "rjd3filters",
         "url": "https://github.com/rjdverse/rjd3filters"
+    },
+    {
+        "package": "Avionic24",
+        "url": "https://github.com/InseeFrLab/Avionic24"
     }
 ]
