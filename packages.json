@@ -28,6 +28,10 @@
         "url": "https://github.com/rjdverse/rjd3filters"
     },
     {
+        "package": "tvCoef",
+        "url": "https://github.com/InseeFrLab/tvCoef"
+    },
+    {
         "package": "Avionic24",
         "url": "https://github.com/InseeFrLab/Avionic24"
     }
