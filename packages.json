@@ -28,6 +28,14 @@
         "url": "https://github.com/rjdverse/rjd3filters"
     },
     {
+        "package": "ggdemetra3",
+        "url": "https://github.com/AQLT/ggdemetra3"
+    },
+    {
+        "package": "rjd3report",
+        "url": "https://github.com/AQLT/rjd3report"
+    },
+    {
         "package": "tvCoef",
         "url": "https://github.com/InseeFrLab/tvCoef"
     },
