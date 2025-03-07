@@ -88,6 +88,10 @@
         "url": "https://github.com/InseeFrLab/tvCoef"
     },
     {
+        "package": "publishTC",
+        "url": "https://github.com/AQLT/publishTC"
+    },
+    {
         "package": "Avionic24",
         "url": "https://github.com/InseeFrLab/Avionic24"
     }
