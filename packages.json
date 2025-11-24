@@ -94,5 +94,9 @@
     {
         "package": "Avionic24",
         "url": "https://github.com/InseeFrLab/Avionic24"
+    },
+    {
+        "package": "AQLTools",
+        "url": "https://github.com/AQLT/AQLTools"
     }
 ]
