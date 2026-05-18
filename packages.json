@@ -98,5 +98,9 @@
     {
         "package": "AQLTools",
         "url": "https://github.com/AQLT/AQLTools"
+    },
+    {
+        "package": "AQLTrainings",
+        "url": "https://github.com/AQLT/AQLTrainings"
     }
 ]
