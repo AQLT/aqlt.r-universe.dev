@@ -102,5 +102,9 @@
     {
         "package": "AQLTrainings",
         "url": "https://github.com/AQLT/AQLTrainings"
+    },
+    {
+        "package": "rjd3bridge",
+        "url": "https://github.com/AQLT/rjd3bridge"
     }
 ]
