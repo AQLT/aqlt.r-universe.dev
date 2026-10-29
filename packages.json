@@ -106,5 +106,9 @@
     {
         "package": "rjd3bridge",
         "url": "https://github.com/AQLT/rjd3bridge"
+    },
+    {
+        "package": "fable.rjd3",
+        "url": "https://github.com/AQLT/fable.rjd3"
     }
 ]
